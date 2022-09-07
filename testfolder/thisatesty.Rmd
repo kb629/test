@@ -1,0 +1,14 @@
+---
+title: "testpt2"
+author: "Kelsey Banister"
+date: "2022-09-07"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+is this a pdf? did it work?
